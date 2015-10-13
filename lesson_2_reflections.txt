@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A hidden directory is created which will store the information about
+	versions, the history. To initializa the repository and to have a
+	version control.
+
