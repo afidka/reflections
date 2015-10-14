@@ -10,3 +10,8 @@ repository? What value do you think it offers?
 	the files we are committed. The staging area provides an
 	intermediate area to have more control over what we are going to
 	commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	Using git diff we can see the differences between files in working
+	directory and staging area, so we see how much changes are made.
+
