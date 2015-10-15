@@ -15,3 +15,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 	Using git diff we can see the differences between files in working
 	directory and staging area, so we see how much changes are made.
 
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+	When we are implementing a new feature but we are not sure about
+	to add it to our project. We can add a new branch for working on 
+	the new feature without affecting the main project in the master
+	branch.
+
