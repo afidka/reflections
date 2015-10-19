@@ -22,3 +22,7 @@ organized? How would branches help?
 	the new feature without affecting the main project in the master
 	branch.
 
+How do the diagrams help you visualize the branch structure?
+	With the diagrams we can see the branches, where they started
+	and how many commits have.
+
