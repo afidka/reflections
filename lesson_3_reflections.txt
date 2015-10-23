@@ -14,3 +14,7 @@ instead of another?
 	Branches are for work on new features or code that I don't want to be in the master
 	branch yet. It's only suitable for a repository.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	We can see differences between the master and origin/master that were introducided 
+	in the remote.
+
