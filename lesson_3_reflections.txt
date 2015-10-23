@@ -6,3 +6,11 @@ stay up-to-date with your remote repository?
 	If I have some features o pieces of code I'm working on and don't want to share yet,
 	I want to decide when the new additions will be accessible to everywhere.
 
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+	Fork is for clone a repository in GitHub.
+	Clone is for clone a repository that is in GitHub to my computer or to clone a
+	repository that is already in my computer.
+	Branches are for work on new features or code that I don't want to be in the master
+	branch yet. It's only suitable for a repository.
+
