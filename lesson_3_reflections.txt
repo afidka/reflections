@@ -18,3 +18,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	We can see differences between the master and origin/master that were introducided 
 	in the remote.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+	Accesing to a repository on the Internet or sending to each other the project.
+	I see now that is easier to collaborate using Git or GitHub.
+
